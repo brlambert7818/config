@@ -1,4 +1,4 @@
-syntax off
+syntax on
 
 set tabstop=2
 
